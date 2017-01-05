@@ -14,6 +14,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'JamshedVesuna/vim-markdown-preview'
 Plugin 'taglist.vim'
+Plugin 'irrationalistic/vim-tasks'
 
 call vundle#end()            " required
 
