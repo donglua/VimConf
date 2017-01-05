@@ -14,3 +14,11 @@ or
 You can now use the ":TlistToggle" command to open/close the taglist
 window. You can use the ":help taglist" command to get more information
 about using the taglist plugin.
+
+## [vim-tasks](https://github.com/irrationalistic/vim-tasks)
+
+*  <leader> n - new task below
+*  <leader> N - new task above
+*  <leader> d - toggle current task complete
+*  <leader> x - toggle current task cancelled
+*  <leader> a - send completed tasks to the archive
