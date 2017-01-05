@@ -17,8 +17,8 @@ about using the taglist plugin.
 
 ## [vim-tasks](https://github.com/irrationalistic/vim-tasks)
 
-*  <leader> n - new task below
-*  <leader> N - new task above
-*  <leader> d - toggle current task complete
-*  <leader> x - toggle current task cancelled
-*  <leader> a - send completed tasks to the archive
+*  \<leader\> n - new task below
+*  \<leader\> N - new task above
+*  \<leader\> d - toggle current task complete
+*  \<leader\> x - toggle current task cancelled
+*  \<leader\> a - send completed tasks to the archive
