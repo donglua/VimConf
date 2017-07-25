@@ -29,3 +29,7 @@ about using the taglist plugin.
 *  \<leader\> d - toggle current task complete
 *  \<leader\> x - toggle current task cancelled
 *  \<leader\> a - send completed tasks to the archive
+
+## fatih/vim-go
+
+```:GoInstallBinaries```
