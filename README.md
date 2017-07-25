@@ -1,5 +1,12 @@
 # Vim 配置 & 使用备忘
 
+## [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+
+```shell
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+Launch ```vim``` and run ```:PluginInstall```
+
 ## Ctags
 * Install
 ```sudo apt-get install exuberant-ctags```
