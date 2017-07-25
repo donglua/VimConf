@@ -15,9 +15,13 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'JamshedVesuna/vim-markdown-preview'
 Plugin 'taglist.vim'
 Plugin 'irrationalistic/vim-tasks'
+Plugin 'fatih/vim-go'
 
 call vundle#end()            " required
 
 filetype plugin indent on    " required
 
 let vim_markdown_preview_github=1
+
+" vim-go auto write
+set autowrite
