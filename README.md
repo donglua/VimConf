@@ -33,3 +33,5 @@ about using the taglist plugin.
 ## fatih/vim-go
 
 ```:GoInstallBinaries```
+
+## [YouCompleteMe](http://valloric.github.io/YouCompleteMe/)
