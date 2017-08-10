@@ -16,6 +16,7 @@ Plugin 'JamshedVesuna/vim-markdown-preview'
 Plugin 'taglist.vim'
 Plugin 'irrationalistic/vim-tasks'
 Plugin 'fatih/vim-go'
+Plugin 'Valloric/YouCompleteMe'
 
 call vundle#end()            " required
 
