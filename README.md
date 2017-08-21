@@ -40,4 +40,10 @@ about using the taglist plugin.
 
 ## [yonchu/accelerated-smooth-scroll](https://github.com/yonchu/accelerated-smooth-scroll)
 
-> 平滑滚动 <C-D>/<C-U>, <C-F>/<C-B>
+> 平滑滚动 ```<C-D>/<C-U>, <C-F>/<C-B>```
+
+## [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
+
+> File system explorer 
+
+## 
